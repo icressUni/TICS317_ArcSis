@@ -1,0 +1,17 @@
+{
+    "author": "test_author",
+    "tasks": {
+        "task1": {
+            "description": "test task 1",
+            "status": "completed"
+        },
+        "task2": {
+            "description": "test task 2",
+            "status": "in progress"
+        },
+        "task3": {
+            "description": "test task 3",
+            "status": "not started"
+        }
+    }
+}
