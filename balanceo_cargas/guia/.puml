@@ -1,0 +1,15 @@
+@startuml
+start
+
+:Usuario ingresa solicitud de curso;
+
+:Sistema valida token JWT;
+
+:Consulta en microservicio de cursos;
+
+:Filtra según permisos de usuario;
+
+:Retorna listado de cursos;
+
+stop
+@enduml
